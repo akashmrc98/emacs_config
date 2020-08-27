@@ -4,10 +4,10 @@
 (package-initialize)
 
 ;; declaring packages
-(load-file "./.emacs.d/custom/evil.el")
-(load-file "./.emacs.d/custom/basic.el")
-(load-file "./.emacs.d/custom/neotree.el")
-(load-file "./.emacs.d/custom/ide.el")
+(load-file "./.emacs.d/config/evil.el")
+(load-file "./.emacs.d/config/basic.el")
+(load-file "./.emacs.d/config/neotree.el")
+(load-file "./.emacs.d/config/ide.el")
 
 
 (custom-set-variables
